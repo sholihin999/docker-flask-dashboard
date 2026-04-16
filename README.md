@@ -12,12 +12,9 @@ Aplikasi web dashboard menggunakan Flask, Redis, dan Nginx dengan Docker Compose
 - Docker Compose
 
 ## ▶️ Cara Menjalankan
-
-```bash
 docker compose up -d --build
 
 ## 📸 Screenshot
-
 <img width="1901" height="859" alt="image" src="https://github.com/user-attachments/assets/bc7633d2-bd07-40ad-88bb-af78d35e04e3" />
 
 ## 🛑 Stop
